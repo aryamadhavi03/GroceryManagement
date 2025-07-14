@@ -56,15 +56,23 @@ Many grocery stores still rely on manual processes for managing inventory, billi
 
 ## 📈 Implementation Screenshots
 
-* **Sign Up Page** – Register new admin users
-* **Login Page** – Secure login
-<img width="1222" height="416" alt="image" src="https://github.com/user-attachments/assets/1b88d136-7a96-4629-a370-30605726a494" />
-* **Dashboard** – View inventory and stats
- <img width="786" height="453" alt="image" src="https://github.com/user-attachments/assets/3e1bc8af-d904-41e0-ac80-da7a030c05ce" />
-* **Add Item Page** – Add new products
-<img width="820" height="472" alt="image" src="https://github.com/user-attachments/assets/0e565266-0cc0-4407-8402-02669e5fe28c" />
-* **Selling Page** – Process sales & billing
-  <img width="815" height="465" alt="image" src="https://github.com/user-attachments/assets/06841beb-3fc1-4a01-a75d-087cecc8b438" />
+### 📌 Sign Up Page & Login Page - Register new admin users  
+<img width="1222" height="416" alt="Sign Up Page" src="https://github.com/user-attachments/assets/1b88d136-7a96-4629-a370-30605726a494" />
+
+---
+
+### 📌 Dashboard  - View inventory and stats  
+<img width="786" height="453" alt="Dashboard" src="https://github.com/user-attachments/assets/3e1bc8af-d904-41e0-ac80-da7a030c05ce" />
+
+---
+
+### 📌 Add Item Page  - Add new products  
+<img width="820" height="472" alt="Add Item Page" src="https://github.com/user-attachments/assets/0e565266-0cc0-4407-8402-02669e5fe28c" />
+
+---
+
+### 📌 Selling Page  - Process sales & billing  
+<img width="815" height="465" alt="Selling Page" src="https://github.com/user-attachments/assets/06841beb-3fc1-4a01-a75d-087cecc8b438" />
 
 ---
 
